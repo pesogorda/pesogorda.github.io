@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://pesogorda.github.io/sitemap/sitemap.txt
